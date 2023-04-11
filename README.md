@@ -1,5 +1,5 @@
 # HackaVerse
-Bir hackhaton'dan katılımcıların işini kolaylaştıracak ve asıl fikirlerine odaklanmalarını sağlayacak yardımcı API'lerin geliştirileceği alandır.
+Bir hackhaton'a katılanların işini kolaylaştıracak ve asıl fikirlerine odaklanmalarını sağlayacak yardımcı API'lerin geliştirileceği alandır.
 
 ## Öneriler
 
